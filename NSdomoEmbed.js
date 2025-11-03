@@ -11,7 +11,7 @@ define(['N/https', 'N/encode', 'N/log'], function(https, encode, log) {
     const DOMO_CONFIG = {
         clientId: 'add client id here',
         clientSecret: 'add client secret here',
-        embedId: 'r2GDw',
+        embedId: 'add embed id here',
         embedType: 'dashboard',
         inlineHtmlFieldId: 'custentitydecustomerdashboar',
         sessionLength: 1440,
